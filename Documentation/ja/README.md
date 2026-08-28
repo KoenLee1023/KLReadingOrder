@@ -84,7 +84,6 @@ for line in lines {
 - [アーキテクチャ](Architecture.md)
 - [移行](Migration.md)
 - [デモアプリ](../../Examples/Documentation/ja/README.md)
-- [コントリビューション](CONTRIBUTING.md)
 - [セキュリティポリシー](SECURITY.md)
 - [行動規範](CODE_OF_CONDUCT.md)
 - [変更履歴](CHANGELOG.md)

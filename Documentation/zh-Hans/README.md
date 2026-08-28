@@ -84,7 +84,6 @@ for line in lines {
 - [架构](Architecture.md)
 - [迁移](Migration.md)
 - [演示应用](../../Examples/Documentation/zh-Hans/README.md)
-- [参与贡献](CONTRIBUTING.md)
 - [安全策略](SECURITY.md)
 - [行为准则](CODE_OF_CONDUCT.md)
 - [变更记录](CHANGELOG.md)
